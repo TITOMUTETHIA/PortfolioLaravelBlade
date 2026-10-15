@@ -14,21 +14,21 @@ class PortfolioController extends Controller
     public function index()
     {
         $profile = [
-            'name' => 'Dinidu Dissanayake',
-            'headline' => 'Aspiring Software Developer',
-            'subheadline' => 'HND in Information Technology (SLIATE) | Full-Stack Web Development & Modern Software Engineering',
-            'location' => 'No. 27/2, School Road, Bakamoona, Sri Lanka',
-            'city' => 'Bakamoona, Sri Lanka',
-            'email' => 'dissanayakedinidu@gmail.com',
-            'phone' => '078 903 0455',
-            'phone_intl' => '+94789030455',
-            'github' => 'https://github.com/dinidu2002',
-            'status' => 'Available for Software Developer Internships & Junior Roles',
+            'name' => 'Tito Mutethia',
+            'headline' => 'Software Developer',
+            'subheadline' => 'Computer Systems Engineering | Full-Stack Web Development | IT support ',
+            'location' => 'Naironi, Kenya',
+            'city' => 'Nairobi',
+            'email' => 'titomutethia@gmail.com',
+            'phone' => '074 095 3711',
+            'phone_intl' => '+254740953711',
+            'github' => 'https://github.com/titomutethia',
+            'status' => 'Available for Software Development Junior Roles',
             'avatar' => asset('images/profile.png'),
             'avatar_fallback' => asset('images/profile.jpg'),
-            'cv_path' => asset('cv/Dinidu_Dissanayake_CV.pdf'),
-            'cv_filename' => 'Dinidu_Dissanayake_CV.pdf',
-            'summary' => 'Motivated and enthusiastic aspiring Software Developer with a strong interest in software development and problem-solving. Possess a solid understanding of programming concepts, software development fundamentals, and database management. Experienced in developing modern web applications using React, Node.js, Express, and Laravel. Eager to apply technical knowledge in real-world environments, master emerging technologies, and contribute effectively to high-performing engineering teams.',
+            'cv_path' => asset('cv/Tito_Mutethia_CV.pdf'),
+            'cv_filename' => 'Tito_Mutethia_CV.pdf',
+            'summary' => 'Software developer with a focus on Laravel, C# and .NET MAUI application development.',
         ];
 
         $skills = [
@@ -38,7 +38,7 @@ class PortfolioController extends Controller
                 'items' => [
                     ['name' => 'PHP', 'level' => 'Proficient', 'icon' => 'php', 'tag' => 'Backend & Laravel'],
                     ['name' => 'JavaScript', 'level' => 'Proficient', 'icon' => 'javascript', 'tag' => 'ES6+ / Web'],
-                    ['name' => 'Java', 'level' => 'Intermediate', 'icon' => 'java', 'tag' => 'OOP & Fundamentals'],
+                    ['name' => 'c#', 'level' => 'Intermediate', 'icon' => 'csharp', 'tag' => 'Frontend & Backend'],
                     ['name' => 'Python', 'level' => 'Intermediate', 'icon' => 'python', 'tag' => 'Scripting & Logic'],
                 ],
             ],
