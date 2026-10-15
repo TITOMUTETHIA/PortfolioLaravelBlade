@@ -97,21 +97,21 @@ class PortfolioController extends Controller
 
         $projects = [
             [
-                'id' => 'foodhub',
-                'title' => 'Foodhub',
+                'id' => 'chatapp',
+                'title' => 'ChatApp',
                 'badge' => 'Priority Project',
-                'category' => 'Laravel POS & Food Shop Management',
-                'description' => 'A comprehensive food shop management and Point of Sale (POS) system engineered with Laravel and MySQL. Features real-time order processing, dynamic menu cataloging, customer billing, and structured database transactions designed for restaurant efficiency.',
-                'technologies' => ['Laravel 12', 'PHP', 'MySQL', 'Blade', 'HTML5', 'CSS3', 'JavaScript'],
-                'github_url' => 'https://github.com/dinidu2002/foodhub',
+                'category' => 'Real-time Chat Application',
+                'description' => 'A modern real-time chat application built with Laravel and WebSocket technology. Features instant messaging, user authentication, and a sleek UI designed for seamless communication.',
+                'technologies' => ['typescript', 'WebSocket', 'JavaScript', 'HTML5', 'CSS3'],
+                'github_url' => 'https://github.com/TITOMUTETHIA/remix-of-purple-muse',
                 'live_url' => null,
                 'highlights' => [
-                    'Food item menu & category administration',
-                    'Interactive cashier point-of-sale ordering flow',
-                    'Relational database architecture for billing records',
-                    'Responsive interface for desktop and tablet screens',
+                    'Real-time chat functionality with WebSocket integration',
+                    'User authentication and secure session management',
+                    'Clean and intuitive user interface with Blade templating',
+                    'Responsive design for mobile and desktop users',
                 ],
-                'accent' => 'cyan',
+                'accent' => 'purple',
                 'featured' => true,
             ],
             [
