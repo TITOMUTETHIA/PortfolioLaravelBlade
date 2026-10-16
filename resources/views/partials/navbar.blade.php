@@ -1,8 +1,8 @@
 <header class="navbar">
     <div class="container navbar-inner">
         <!-- Brand Logo -->
-        <a href="#hero" class="brand-logo" aria-label="Dinidu Dissanayake Homepage">
-            <span class="brand-bracket">&lt;</span>Dinidu<span class="brand-dot">.dev</span><span class="brand-bracket"> /&gt;</span>
+        <a href="#hero" class="brand-logo" aria-label="Tito Mutethia Homepage">
+            <span class="brand-bracket">&lt;</span>Tito<span class="brand-dot">.dev</span><span class="brand-bracket"> /&gt;</span>
         </a>
 
         <!-- Desktop Navigation Links -->
@@ -20,7 +20,7 @@
 
         <!-- Right Action Button & Mobile Toggle -->
         <div class="nav-actions">
-            <a href="{{ route('cv.download') }}" class="btn btn-secondary btn-sm btn-download-nav" download="Dinidu_Dissanayake_CV.pdf">
+            <a href="{{ route('cv.download') }}" class="btn btn-secondary btn-sm btn-download-nav" download="Tito_Mutethia_CV.pdf">
                 <svg class="btn-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                 </svg>
