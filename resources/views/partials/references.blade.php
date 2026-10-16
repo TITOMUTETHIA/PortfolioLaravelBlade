@@ -11,7 +11,7 @@
                 Academic <span class="text-gradient">References</span>
             </h2>
             <p class="section-desc">
-                Distinguished educators and department leadership at SLIATE – Kandy who can vouch for academic performance, technical commitment, and character.
+                Distinguished educators, technical commitment, and character.
             </p>
         </div>
 
