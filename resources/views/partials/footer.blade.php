@@ -2,11 +2,11 @@
     <div class="container">
         <div class="footer-top">
             <div class="footer-brand">
-                <a href="#hero" class="brand-logo" aria-label="Dinidu Dissanayake Homepage">
-                    <span class="brand-bracket">&lt;</span>Dinidu<span class="brand-dot">.dev</span><span class="brand-bracket"> /&gt;</span>
+                <a href="#hero" class="brand-logo" aria-label="Tito Mutethia Homepage">
+                    <span class="brand-bracket">&lt;</span>Tito<span class="brand-dot">.dev</span><span class="brand-bracket"> /&gt;</span>
                 </a>
                 <p class="footer-desc">
-                    Aspiring Software Developer passionate about engineering modern, high-performance web applications with Laravel, React, and Node.js.
+                    Developer passionate about engineering modern, high-performance web applications with c#, Laravel and Blade Templates.
                 </p>
             </div>
 
@@ -24,7 +24,7 @@
 
         <div class="footer-bottom">
             <div>
-                &copy; {{ date('Y') }} Dinidu Dissanayake. All rights reserved.
+                &copy; {{ date('Y') }} Tito Mutethia. All rights reserved.
             </div>
             <div>
                 Crafted with <strong style="color: var(--accent-cyan);">Laravel 12</strong> &amp; Blade Templates
