@@ -79,16 +79,16 @@
 
                         <div class="exam-results-grid">
                             <div class="exam-result-box">
-                                <span class="exam-subject">Engineering Technology</span>
+                                <span class="exam-subject">English</span>
                                 <span class="exam-grade">B</span>
                             </div>
                             <div class="exam-result-box">
-                                <span class="exam-subject">Science for Technology</span>
-                                <span class="exam-grade">C</span>
+                                <span class="exam-subject">Bussiness Studies</span>
+                                <span class="exam-grade">A</span>
                             </div>
                             <div class="exam-result-box">
-                                <span class="exam-subject">Information & Comm. Technology (ICT)</span>
-                                <span class="exam-grade">S</span>
+                                <span class="exam-subject">Mathematics</span>
+                                <span class="exam-grade">B-</span>
                             </div>
                         </div>
                     </div>
