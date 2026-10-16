@@ -217,24 +217,28 @@ class PortfolioController extends Controller
                     'English — Grade B',
                     'Geography — Grade C',
                     'Mathematics — Grade B',
+                    'Physics — Grade C',
+                    'Chemistry — Grade B',
+                    'Business Studies — Grade A',
+                    'kiswahili — Grade B+',
                 ],
             ],
         ];
 
         $experience = [
             [
-                'role' => 'School Leaver / Trainee',
-                'company' => 'Regional Development Bank (RDB)',
+                'role' => 'Data System Analyst',
+                'company' => 'Chrome Partners Ltd',
                 'duration' => '1 Year Experience',
                 'badge' => '1 Year Professional Experience',
-                'type' => 'Banking Operations & Customer Support',
+                'type' => 'Data System Analyst, Computer Systems Support, and IT Operations',
                 'responsibilities' => [
-                    'Assisted branch staff with day-to-day banking procedures and administrative activities.',
-                    'Provided attentive customer service and direct support to bank clients, answering queries courteously.',
-                    'Assisted staff with documentation, data entry, record management, and ledger verification with high accuracy.',
-                    'Handled diverse customer inquiries professionally and guided them to appropriate financial departments.',
-                    'Cultivated strong interpersonal communication, teamwork, time-management, and conflict-resolution abilities in a busy environment.',
-                    'Strictly maintained data confidentiality and customer privacy while handling sensitive documentation.',
+                    'Analyzed and optimized data systems, ensuring efficient data flow and integrity across platforms.',
+                    'Developed and maintained internal tools for data management, reporting, and system monitoring.',
+                    'Collaborated with cross-functional teams to implement data-driven solutions and improve operational efficiency.',
+                    'Provided technical support and troubleshooting for software applications, hardware, and network issues, ensuring minimal downtime.',
+                    'Implemented and maintained data security protocols, safeguarding sensitive information and ensuring compliance with industry standards.',
+                    'Conducted training sessions for staff on data management best practices and system usage, enhancing overall team competency.',
                 ],
             ],
         ];
