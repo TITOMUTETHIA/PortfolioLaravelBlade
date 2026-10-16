@@ -1,4 +1,4 @@
-# Dinidu Dissanayake — Software Developer Portfolio
+# Tito Mutethia — Software Developer Portfolio
 
 A modern, responsive, and recruiter-focused Software Developer Portfolio built with **Laravel 12, Blade Templates, Vanilla CSS, and JavaScript**.
 
@@ -132,6 +132,6 @@ portfolio/
 
 **Dinidu Dissanayake**
 - 📍 Bakamoona, Sri Lanka
-- 📧 [dissanayakedinidu@gmail.com](mailto:dissanayakedinidu@gmail.com)
+- 📧 [dissanayakedinidu@gmail.com](titomutethia@gmail.com)
 - 📞 078 903 0455
-- 💻 GitHub: [@dinidu2002](https://github.com/dinidu2002)
+- 💻 GitHub: [@dinidu2002](https://github.com/titomutethia)
