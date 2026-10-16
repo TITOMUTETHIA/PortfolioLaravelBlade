@@ -8,10 +8,10 @@
                 <span>About Me</span>
             </div>
             <h2 class="section-title">
-                Passionate About <span class="text-gradient">Building Software</span> That Solves Problems
+                Passionate About <span class="text-gradient">Building Multi-Platform Software</span> That Solves Problems
             </h2>
             <p class="section-desc">
-                A dedicated, fast-learning developer with strong technical curiosity and hands-on experience in full-stack web engineering.
+                A dedicated, fast-learning developer with hands-on experience in full-stack web development.
             </p>
         </div>
 
@@ -26,20 +26,20 @@
                 </h3>
 
                 <p class="about-p">
-                    I am an aspiring Software Developer currently completing my <strong>Higher National Diploma (HND) in Information Technology</strong> at the Sri Lanka Institute of Advanced Technological Education (SLIATE – Kandy).
+                    I am a Developer completed<strong>Bachelor's Degree in Computer Systems Engineering</strong> at the Kirinyaga University.
                 </p>
 
                 <p class="about-p">
-                    My technical journey combines a strong theoretical foundation in computer science and programming fundamentals with practical experience building modern web applications. Having developed projects utilizing <strong>Laravel, PHP, React.js, Node.js, Express.js, and MySQL</strong>, I enjoy crafting reliable backend APIs, structured relational databases, and clean, responsive user interfaces.
+                    My technical journey combines a strong theoretical foundation in computer systems and programming fundamentals with practical experience building modern web applications. Having developed projects utilizing <strong>Laravel, PHP, C# and MySQL</strong>, I enjoy crafting reliable backend APIs, structured relational databases, and clean, responsive user interfaces.
                 </p>
 
                 <p class="about-p">
-                    Prior to committing fully to software engineering, I completed a one-year role at <strong>Regional Development Bank (RDB)</strong>. This background provided valuable real-world exposure to rigorous administrative precision, client communication, and customer confidentiality—skills that directly elevate my dependability in collaborative development teams.
+                    Prior to committing fully to software engineering, I completed a 3-month attachment role at <strong>kenyatta University Teaching and Research Hospital</strong> and a short-term attachment at <strong>Centric Limited</strong>. This background provided valuable real-world exposure to becoming a laravel developer, rigorous administrative precision, IT support, cybersecurity, client communication, and customer confidentiality.
                 </p>
 
                 <div class="about-highlight-box">
                     <div class="about-highlight-text">
-                        <strong>Career Goal:</strong> Actively seeking a Software Developer Internship or Junior Developer role where I can apply my programming skills, collaborate with seasoned engineers, and build scalable real-world digital products.
+                        <strong>Career Goal:</strong> Actively seeking a Junior Developer role where I can apply my programming skills, collaborate with other developers, and build scalable real-world digital products.
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                     </div>
                     <div>
                         <div class="info-label">Current Academic Level</div>
-                        <div class="info-val">HND in IT (SLIATE – Kandy)</div>
+                        <div class="info-val">Bachelor's Degree in Computer Systems Engineering</div>
                     </div>
                 </div>
 
@@ -99,7 +99,7 @@
                     </div>
                     <div>
                         <div class="info-label">Industry Experience</div>
-                        <div class="info-val">1 Year (Regional Development Bank)</div>
+                        <div class="info-val">3-month (Kenyatta University Teaching and Research Hospital) and Centric Limited</div>
                     </div>
                 </div>
 
@@ -111,7 +111,7 @@
                     </div>
                     <div>
                         <div class="info-label">Target Role</div>
-                        <div class="info-val">Software Developer Intern / Junior Developer</div>
+                        <div class="info-val">Junior Developer</div>
                     </div>
                 </div>
             </div>
