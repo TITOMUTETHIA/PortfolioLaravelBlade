@@ -194,29 +194,29 @@ class PortfolioController extends Controller
 
         $education = [
             [
-                'degree' => 'Higher National Diploma (HND) in Information Technology',
-                'institution' => 'Sri Lanka Institute of Advanced Technological Education (SLIATE)',
-                'campus' => 'SLIATE – Kandy',
-                'period' => '2023 / 2024 Batch',
-                'status' => 'Ongoing / Advanced Level Qualification',
-                'badge' => 'Current Tertiary Qualification',
+                'degree' => 'Computer Systems Engineering (CSE) – Advanced Level Qualification',
+                'institution' => 'Kirinyaga University',
+                'campus' => 'Kirinyaga University Main Campus',
+                'period' => '2021 / 2025 Batch',
+                'status' => 'Completed 4th Year of Study',
+                'badge' => 'Undergraduate Degree Completion',
                 'details' => [
-                    'In-depth study of Object-Oriented Programming (Java, PHP), Software Engineering, and Database Management Systems (MySQL).',
+                    'In-depth study of Object-Oriented Programming (c, c++), Software Engineering, and Database Management Systems (MySQL).',
                     'Practical coursework covering Web Application Development, System Analysis & Design, and Computer Networking.',
                     'Rigorous academic projects strengthening software development lifecycle (SDLC) comprehension and industry-standard coding practices.',
                 ],
             ],
             [
-                'degree' => 'G.C.E. Advanced Level – Technology Stream',
-                'institution' => 'Ministry of Education, Sri Lanka',
+                'degree' => 'Kenya Certificate of Secondary Education (KCSE) – High School Qualification',
+                'institution' => 'Ministry of Education, Kenya',
                 'campus' => 'National Examination',
-                'period' => '2022',
+                'period' => '2020 / 2021 Batch',
                 'status' => 'Successfully Completed',
                 'badge' => 'National High School Exam',
                 'details' => [
-                    'Engineering Technology — Grade B',
-                    'Science for Technology — Grade C',
-                    'Information & Communication Technology (ICT) — Grade S',
+                    'English — Grade B',
+                    'Geography — Grade C',
+                    'Mathematics — Grade B',
                 ],
             ],
         ];
