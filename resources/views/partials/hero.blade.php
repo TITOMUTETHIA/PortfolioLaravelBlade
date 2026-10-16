@@ -55,7 +55,7 @@
 
                     <div class="meta-stat">
                         <span class="meta-stat-num">1<span> Year</span></span>
-                        <span class="meta-stat-label">Banking Experience</span>
+                        <span class="meta-stat-label">Professional Experience</span>
                     </div>
 
                     <div class="meta-stat">
@@ -91,7 +91,7 @@
                                 </svg>
                             </div>
                             <div>
-                                <div class="avatar-badge-text">Dinidu Dissanayake</div>
+                                <div class="avatar-badge-text">Tito Mutethia</div>
                                 <div class="avatar-badge-sub">Full-Stack & Laravel Developer</div>
                             </div>
                         </div>
