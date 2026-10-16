@@ -11,7 +11,7 @@
                 Let's Discuss <span class="text-gradient">Opportunities</span>
             </h2>
             <p class="section-desc">
-                Currently open for software developer internships, junior engineering opportunities, and collaborative technical projects. Reach out directly or send a message below.
+                Currently open for junior developer opportunities, and collaborative technical projects. Reach out directly or send a message below.
             </p>
         </div>
 
@@ -80,7 +80,7 @@
                         </div>
                         <div>
                             <div class="channel-label">GitHub Profile</div>
-                            <div class="channel-val font-mono" style="font-size: 0.88rem;">github.com/dinidu2002</div>
+                            <div class="channel-val font-mono" style="font-size: 0.88rem;">github.com/titomutethia</div>
                         </div>
                     </div>
                     <div class="channel-actions">
