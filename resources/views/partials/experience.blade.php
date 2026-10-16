@@ -11,7 +11,7 @@
                 Work <span class="text-gradient">Experience</span>
             </h2>
             <p class="section-desc">
-                Verified commercial work experience reflecting dependability, client service excellence, and strict data accuracy.
+                Verified commercial work experience reflecting accountability, client service excellence, and strict data accuracy.
             </p>
         </div>
 
@@ -59,14 +59,14 @@
                 <div class="glass-card timeline-card">
                     <div class="timeline-header">
                         <div>
-                            <h3 class="timeline-title">Academic & Full-Stack Project Development</h3>
-                            <div class="timeline-sub">Sri Lanka Institute of Advanced Technological Education (SLIATE)</div>
+                            <h3 class="timeline-title">Full-Stack Project Development</h3>
+                            <div class="timeline-sub">Kirinyaga University</div>
                         </div>
                         <span class="timeline-time-badge">
                             <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                             </svg>
-                            <span>2023 – Present</span>
+                            <span>2021-2025 </span>
                         </span>
                     </div>
 
@@ -86,7 +86,7 @@
                                 <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                                 </svg>
-                                <span>Collaborated in lab programming assignments focusing on Java OOP, PHP/MySQL integration, JavaScript DOM manipulation, and Postman API testing.</span>
+                                <span>Collaborated in lab programming assignments focusing on OOP, PHP/MySQL integration, JavaScript DOM manipulation, and Postman API testing.</span>
                             </li>
                             <li>
                                 <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
