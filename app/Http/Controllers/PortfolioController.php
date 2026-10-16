@@ -245,18 +245,18 @@ class PortfolioController extends Controller
 
         $references = [
             [
-                'name' => 'V.G.S. Pradeepika',
-                'title' => 'Senior Lecturer',
-                'institution' => 'SLIATE – Kandy',
-                'email' => 'pradeepika@sliate.ac.lk',
-                'phone' => '071 803 5218',
+                'name' => 'Patricia Mwendwa',
+                'title' => 'Assistant Director',
+                'institution' => 'Protection commission',
+                'email' => 'patriciambaya@gmail.com',
+                'phone' => '072 033 5969',
             ],
             [
-                'name' => 'D.K. Kumarihami',
-                'title' => 'Head of IT Department',
-                'institution' => 'SLIATE – Kandy',
-                'email' => 'dilinikanachana@sliate.ac.lk',
-                'phone' => '077 788 2155',
+                'name' => 'Arnold Wamae',
+                'title' => 'System Admin Developer',
+                'institution' => 'Centric Limited',
+                'email' => 'arnold@centricltd.co.ke',
+                'phone' => '079 923 2287',
             ],
         ];
 
