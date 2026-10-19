@@ -275,12 +275,12 @@ class PortfolioController extends Controller
      */
     public function downloadCv()
     {
-        $filePath = public_path('cv/Dinidu_Dissanayake_CV.pdf');
+        $filePath = public_path('cv/Tito_Mutethia_CV.pdf');
 
         if (file_exists($filePath)) {
-            return Response::download($filePath, 'Dinidu_Dissanayake_CV.pdf', [
+            return Response::download($filePath, 'Tito_Mutethia_CV.pdf', [
                 'Content-Type' => 'application/pdf',
-                'Content-Disposition' => 'attachment; filename="Dinidu_Dissanayake_CV.pdf"',
+                'Content-Disposition' => 'attachment; filename="Tito_Mutethia_CV.pdf"',
             ]);
         }
 
@@ -310,7 +310,7 @@ class PortfolioController extends Controller
             'timestamp' => now()->toIso8601String(),
         ]);
 
-        $mailtoLink = 'mailto:dissanayakedinidu@gmail.com?subject=' . rawurlencode('[Portfolio Inquiry] ' . $validated['subject']) . '&body=' . rawurlencode("From: {$validated['name']} ({$validated['email']})\n\n{$validated['message']}");
+        $mailtoLink = 'mailto:titomutethia@gmail.com?subject=' . rawurlencode('[Portfolio Inquiry] ' . $validated['subject']) . '&body=' . rawurlencode("From: {$validated['name']} ({$validated['email']})\n\n{$validated['message']}");
 
         return redirect()->to(url()->previous() . '#contact')->with([
             'success' => "Thank you, {$validated['name']}! Your message has been logged. For an immediate direct response, you may also launch your email client with one click.",
