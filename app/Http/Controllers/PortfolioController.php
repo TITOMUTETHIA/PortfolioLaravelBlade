@@ -140,8 +140,8 @@ class PortfolioController extends Controller
                 'description' => 'A simple and intuitive tip calculator app designed to help users quickly determine the appropriate tip amount for their service providers.',
                 'technologies' => ['c#'],
 
-                'github_url' => null,
-                'github_profile' => 'https://github.com/TITOMUTETHIA/TipCalculator.git',
+                'github_profile' => null,
+                'github_url' => 'https://github.com/TITOMUTETHIA/TipCalculator.git',
                 'live_url' => null,
                 'highlights' => [
                     'Simple and intuitive user interface',
@@ -159,8 +159,8 @@ class PortfolioController extends Controller
                 'category' => 'Full-Stack Web Development',
                 'description' => 'Developed a comprehensive admin panel for managing portfolio content, including projects, skills, and personal information. Built with React.js for the frontend and Node.js/Express.js for the backend, ensuring a seamless user experience and efficient data handling.',
                 'technologies' => [ 'JavaScript', 'HTML5', 'CSS3', 'C#'],
-                'github_url' => null,
-                'github_profile' => 'https://github.com/TITOMUTETHIA/TitoPortfolioAdmin.git',
+                'github_profile' => null,
+                'github_url' => 'https://github.com/TITOMUTETHIA/TitoPortfolioAdmin.git',
                 'live_url' => null,
                 'highlights' => [
                     'Dynamic content management for portfolio sections',
@@ -178,9 +178,9 @@ class PortfolioController extends Controller
                 'category' => 'Backend Development',
                 'description' => 'Developed a robust server-side backend for the portfolio website, handling data management, user authentication, and API integrations. Built with Node.js and Express.js, ensuring high performance and scalability.',
                 'technologies' => ['C#', 'SQL-LITE', 'Database Management'],
-                'github_url' => null,
-                'github_profile' => 'https://github.com/TITOMUTETHIA/TitoPortfolioServer.git',
-                'live_url' => null,
+                'github_profile' => null,
+                'github_url' => 'https://github.com/TITOMUTETHIA/TitoPortfolioServer.git',
+                'live_profile' => null,
                 'highlights' => [
                     'RESTful API endpoints for portfolio data management',
                     'Dynamic content management for portfolio sections',
