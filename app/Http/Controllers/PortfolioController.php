@@ -17,7 +17,7 @@ class PortfolioController extends Controller
             'name' => 'Tito Mutethia',
             'headline' => 'Software Developer',
             'subheadline' => 'Computer Systems Engineering | Full-Stack Web Development | IT support ',
-            'location' => 'Naironi, Kenya',
+            'location' => '398-00520',
             'city' => 'Nairobi',
             'email' => 'titomutethia@gmail.com',
             'phone' => '074 095 3711',
