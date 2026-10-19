@@ -115,8 +115,8 @@
                 <span class="skill">CSS</span>
                 <span class="skill">JavaScript</span>
                 <span class="skill">Git & GitHub</span>
-                <span class="skill">React</span>
-                <span class="skill">Node.js</span>
+                
+                
             </div>
         </section>
 
