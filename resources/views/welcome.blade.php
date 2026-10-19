@@ -124,19 +124,19 @@
             <h2>Featured Projects</h2>
             <div class="cards">
                 <article class="card">
-                    <h3>Foodhub</h3>
-                    <p class="muted">A Laravel-based food shop management and POS system with cashier, sales, and food management features.</p>
-                    <p><a href="https://github.com/dinidu2002/foodhub" target="_blank" rel="noopener noreferrer" class="btn">View Project ↗</a></p>
+                    <h3>ChatApp</h3>
+                    <p class="muted">A real-time chat application built with Laravel and WebSocket for seamless communication.</p>
+                    <p><a href="https://github.com/TITOMUTETHIA/remix-of-purple-muse" target="_blank" rel="noopener noreferrer" class="btn">View Project ↗</a></p>
                 </article>
                 <article class="card">
-                    <h3>AgriConnect</h3>
-                    <p class="muted">An agriculture-focused web application designed to connect users with useful farming information.</p>
-                    <p><a href="https://github.com/dinidu2002" target="_blank" rel="noopener noreferrer" class="btn btn-outline">GitHub ↗</a></p>
+                    <h3>eShop Mobile Client</h3>
+                    <p class="muted">A mobile client for an e-commerce platform built with React Native.</p>
+                    <p><a href="https://github.com/TITOMUTETHIA/eshop-mobile-client.git" target="_blank" rel="noopener noreferrer" class="btn btn-outline">GitHub ↗</a></p>
                 </article>
                 <article class="card">
-                    <h3>TaskFlow Pro</h3>
-                    <p class="muted">A project management application built with Laravel to help organise work and tasks.</p>
-                    <p><a href="https://github.com/dinidu2002/taskflow-pro" target="_blank" rel="noopener noreferrer" class="btn btn-outline">View Project ↗</a></p>
+                    <h3>Portfolio Server Backend</h3>
+                    <p class="muted">A robust backend service for managing and serving portfolio data, built with C#.</p>
+                    <p><a href="https://github.com/TITOMUTETHIA/TitoPortfolioServer.git" target="_blank" rel="noopener noreferrer" class="btn btn-outline">View Project ↗</a></p>
                 </article>
             </div>
         </section>
@@ -145,12 +145,12 @@
             <h2>Let's Connect</h2>
             <p class="muted">I'm interested in software development opportunities, internships, and collaboration.</p>
             <p style="margin-top:20px">
-                <a class="btn" href="https://github.com/dinidu2002" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
-                <a class="btn btn-outline" href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a class="btn" href="https://github.com/TITOMUTETHIA" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+                <a class="btn btn-outline" href="https://www.linkedin.com/in/tito-mutethia/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             </p>
         </section>
     </main>
 
-    <footer>© 2026 Dinidu Dissanayake · Built with Laravel</footer>
+    <footer>© 2026 Tito Mutethia · Built with Laravel</footer>
 </body>
 </html>
