@@ -20,7 +20,7 @@
             <button type="button" class="filter-btn active" data-filter="all">All Projects</button>
             <button type="button" class="filter-btn" data-filter="Priority Project">Priority Projects</button>
             <button type="button" class="filter-btn" data-filter="Laravel">Laravel & PHP</button>
-            <button type="button" class="filter-btn" data-filter="React">React & Node.js</button>
+            <button type="button" class="filter-btn" data-filter="React">c#</button>
             <button type="button" class="filter-btn" data-filter="Frontend">Frontend UI</button>
         </div>
 

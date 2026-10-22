@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
-| Web Routes - Dinidu Dissanayake Portfolio
+| Web Routes -  Portfolio
 |--------------------------------------------------------------------------
 */
 
