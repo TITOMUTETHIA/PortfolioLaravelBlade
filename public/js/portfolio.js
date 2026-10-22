@@ -1,7 +1,4 @@
-/**
- * Dinidu Dissanayake - Developer Portfolio JavaScript
- * Modern, Lightweight Vanilla JS for navigation, interactions, and copy feedback
- */
+
 
 document.addEventListener('DOMContentLoaded', () => {
   initNavbar();
