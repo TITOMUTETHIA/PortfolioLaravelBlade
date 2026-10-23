@@ -103,11 +103,11 @@ portfolio/
    git add .
    git commit -m "Initial commit: Complete Dinidu Dissanayake Developer Portfolio"
    ```
-2. Create a repository on your GitHub account (`https://github.com/dinidu2002/portfolio`).
+2. Create a repository on your GitHub account (`https://github.com/`).
 3. Link your remote repository and push:
    ```powershell
    git branch -M main
-   git remote add origin https://github.com/dinidu2002/portfolio.git
+   git remote add origin https:
    git push -u origin main
    ```
 
@@ -130,8 +130,8 @@ portfolio/
 
 ## 👤 Author
 
-**Dinidu Dissanayake**
+**Tito Mutethia**
 - 📍 Bakamoona, Sri Lanka
-- 📧 [dissanayakedinidu@gmail.com](titomutethia@gmail.com)
+- 📧 [titomutethia@gmail.com](titomutethia@gmail.com)
 - 📞 078 903 0455
-- 💻 GitHub: [@dinidu2002](https://github.com/titomutethia)
+- 💻 GitHub: [@titomutethia](https://github.com/titomutethia)
