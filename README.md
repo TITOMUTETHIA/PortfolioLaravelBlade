@@ -101,7 +101,7 @@ portfolio/
    ```powershell
    git init
    git add .
-   git commit -m "Initial commit: Complete Dinidu Dissanayake Developer Portfolio"
+   git commit -m "Initial commit: "
    ```
 2. Create a repository on your GitHub account (`https://github.com/`).
 3. Link your remote repository and push:
