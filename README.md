@@ -131,7 +131,7 @@ portfolio/
 ## 👤 Author
 
 **Tito Mutethia**
-- 📍 Bakamoona, Sri Lanka
+- 📍 Nairobi, Kenya
 - 📧 [titomutethia@gmail.com](titomutethia@gmail.com)
 - 📞 0740953711
 - 💻 GitHub: [@titomutethia](https://github.com/titomutethia)
