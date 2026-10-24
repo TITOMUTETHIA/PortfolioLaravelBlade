@@ -133,5 +133,5 @@ portfolio/
 **Tito Mutethia**
 - 📍 Bakamoona, Sri Lanka
 - 📧 [titomutethia@gmail.com](titomutethia@gmail.com)
-- 📞 078 903 0455
+- 📞 0740953711
 - 💻 GitHub: [@titomutethia](https://github.com/titomutethia)
